@@ -1,10 +1,10 @@
 # ➖➖➖➖➖➖➖ Hello World ➖➖➖➖➖➖➖
 
-➖ 👋 Hi, I’m @Ysn4Irix
-➖ 👀 I’m interested in Web Development
-➖ 🌱 I’m currently learning NodeJS
-➖ 💞️ I’m looking to collaborate on ...
-➖ 📫 How to reach me ysn4irix@gmail.com
+- 👋 Hi, I’m @Ysn4Irix
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking to collaborate on my self
+- 📫 How to reach me ysn4irix@gmail.com
 
 <!---
 Ysn4Irix/Ysn4Irix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
