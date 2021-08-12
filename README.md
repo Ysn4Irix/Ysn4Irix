@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on my self
 - 📫 How to reach me ysn4irix@gmail.com
 
-<br>
+---
 
 <a href="https://github.com/ysn4irix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysn4irix&theme=buefy&show_icons=true" />
