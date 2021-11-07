@@ -19,8 +19,8 @@
 
 <p align="center">
 <a href="https://github.com/ysn4irix" align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ysn4irix&theme=dracula&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysn4irix&theme=dracula&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.codestackr.vercel.app/api?username=ysn4irix&theme=dracula&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=ysn4irix&theme=dracula&layout=compact" />
 </a>
 </p>
 
