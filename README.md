@@ -19,6 +19,7 @@
 ---
 
 <p align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ysn4irix&repo=lightbin)](https://github.com/Ysn4Irix/lightbin)
 <a href="https://github.com/ysn4irix" align="center">
   <img height="160em" src="https://ysn4irix-github-readme-stats.vercel.app/api?username=ysn4irix&theme=dracula&show_icons=true" />
   <img height="160em" src="https://ysn4irix-github-readme-stats.vercel.app/api/top-langs/?username=ysn4irix&theme=dracula&layout=compact" />
