@@ -12,15 +12,16 @@
 👋 Hi, I’m @Ysn4Irix
 👀 I’m interested in Web Development</p>
 🌱 I’m currently working with NodeJS</p>
-💞️ I’m looking to collaborate on my self</p>
+📚 I’m currently learning React</p>
+💞️ I’m looking to collaborate on web projects</p>
 📫 How to reach me ysn4irix@gmail.com
 
 ---
 
 <p align="center">
 <a href="https://github.com/ysn4irix" align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ysn4irix&theme=dracula&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysn4irix&theme=dracula&layout=compact" />
+  <img height="160em" src="https://ysn4irix-github-readme-stats.vercel.app/api?username=ysn4irix&theme=dracula&show_icons=true" />
+  <img height="160em" src="https://ysn4irix-github-readme-stats.vercel.app/api/top-langs/?username=ysn4irix&theme=dracula&layout=compact" />
 </a>
 </p>
 
