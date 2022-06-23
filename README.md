@@ -12,7 +12,7 @@
 👋 Hi, I’m @Ysn4Irix
 👀 I’m interested in Web Development</p>
 🌱 I’m currently working with NodeJS</p>
-📚 I’m currently learning React</p>
+📚 I’m currently learning VueJS</p>
 💞️ I’m looking to collaborate on web projects</p>
 📫 How to reach me ysn4irix@gmail.com
 
