@@ -14,7 +14,7 @@
 🌱 I’m currently working with NodeJS</p>
 📚 I’m currently learning NuxtJS</p>
 💞️ I’m looking to collaborate on web projects</p>
-📫 How to reach me ysn4irix@gmail.com
+📫 How to reach me contact@ysnirix.tech
 
 ---
 
