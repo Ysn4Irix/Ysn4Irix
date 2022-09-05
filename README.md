@@ -1,5 +1,5 @@
 <p align="center">
- <img width="400px" src="https://res.cloudinary.com/ysnirix/image/upload/v1628799571/logo_uuiutr.svg" align="center" alt="ysn4irixGithub" />
+ <img width="300px" src="https://res.cloudinary.com/ysnirix/image/upload/v1628799571/logo_uuiutr.svg" align="center" alt="ysn4irixGithub" />
 </p>
 
 ### 👋 Hi, I’m Yassine
