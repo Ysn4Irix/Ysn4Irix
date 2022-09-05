@@ -2,7 +2,7 @@
  <img width="400px" src="https://res.cloudinary.com/ysnirix/image/upload/v1628799571/logo_uuiutr.svg" align="center" alt="ysn4irixGithub" />
 </p>
 
-### 👋 Hi, I’m @ysn4irix
+### 👋 Hi, I’m Yassine
 
 - ❤️ I’m in love with JavaScript
 - 👀 I’m interested in Web Development
@@ -10,19 +10,19 @@
 - 📚 I’m currently learning NuxtJS
 - 😄 Pronouns: he/him
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me contact@ysnirix.tech
+- 📫 How to reach me ysn4irix@gmail.com
 
-🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🏡 [website][website] **|**
+📺 [youtube][youtube] **|**
+📦 [npm][npm] **|**
+💌 [facebook][facebook] **|**
+📷 [instagram][instagram] **|**
 
 Shoutout to [James Q Quick][james] for the inspiration!
 
-[website]: https://jamesqquick.com
+[website]: https://ysnirix.live
 [youtube]: https://youtube.com/channel/UCSRh_PrBvMRmWj8f3I6tkZA
+[facebook]: https://facebook.com/ysn.irix
 [instagram]: https://instagram.com/ysn.irix
 [npm]: https://npmjs.com/~ysn4irix
 [james]: https://github.com/jamesqquick
