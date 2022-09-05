@@ -2,19 +2,30 @@
  <img width="400px" src="https://res.cloudinary.com/ysnirix/image/upload/v1628799571/logo_uuiutr.svg" align="center" alt="ysn4irixGithub" />
 </p>
 
-<p align="center">
-<a href="https://www.ysnirix.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ysnirix.tech-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.instagram.com/ysn.irix"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ysn.irix-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:contact@ysnirix.tech"><img alt="Email" src="https://img.shields.io/badge/Email-contact@ysnirix.tech-blue?style=flat-square&logo=gmail"></a>
-</p>
+###👋 Hi, I’m @ysn4irix
 
-<p>👋 Hi, I’m @Ysn4Irix</p>
-<p>:heart: I’m in love with JavaScript</p>
-<p>👀 I’m interested in Web Development</p>
-<p>🌱 I’m currently working with NodeJS</p>
-<p>📚 I’m currently learning NuxtJS</p>
-<p>💞️ I’m looking to collaborate on web projects</p>
-<p>📫 How to reach me contact@ysnirix.tech</p>
+- ❤️ I’m in love with JavaScript
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently working with NodeJS
+- 📚 I’m currently learning NuxtJS
+- 😄 Pronouns: he/him
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me contact@ysnirix.tech
+
+🏡 [website][website] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+Shoutout to [James Q Quick][james] for the inspiration!
+
+[website]: https://jamesqquick.com
+[youtube]: https://youtube.com/channel/UCSRh_PrBvMRmWj8f3I6tkZA
+[instagram]: https://instagram.com/ysn.irix
+[npm]: https://npmjs.com/~ysn4irix
+[james]: https://github.com/jamesqquick
 
 ---
 
