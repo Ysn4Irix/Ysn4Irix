@@ -1,13 +1,13 @@
 <p align="center">
- <img width="300px" src="https://res.cloudinary.com/ysnirix/image/upload/v1628799571/logo_uuiutr.svg" align="center" alt="ysn4irixGithub" />
+ <img width="320px" src="https://res.cloudinary.com/ysnirix/image/upload/v1628799571/logo_uuiutr.svg" align="center" alt="ysn4irixGithub" />
 </p>
 
 ### 👋 Hi, I’m Yassine
 
 - ❤️ I’m in love with JavaScript
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working with NodeJS
-- 📚 I’m currently learning NuxtJS
+- 🌱 I’m currently working with [Node.js](https://nodejs.org/en/)
+- 📚 I’m currently learning ~~NuxtJS~~ [Svelte](https://svelte.dev/)
 - 😄 Pronouns: he/him
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ysn4irix@gmail.com
