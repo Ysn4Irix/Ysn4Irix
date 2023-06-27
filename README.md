@@ -20,7 +20,7 @@
 
 Shoutout to [James Q Quick][james] for the inspiration!
 
-[website]: https://ysnirix.live
+[website]: https://ysnirix.xyz
 [youtube]: https://youtube.com/channel/UCSRh_PrBvMRmWj8f3I6tkZA
 [facebook]: https://facebook.com/ysn.irix
 [instagram]: https://instagram.com/ysn.irix
