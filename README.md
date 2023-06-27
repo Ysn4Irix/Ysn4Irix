@@ -18,8 +18,6 @@
 💌 [facebook][facebook] **|**
 📷 [instagram][instagram] **|**
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ysn4irix.visitor-badge&left_color=purple&right_color=red)
-
 Shoutout to [James Q Quick][james] for the inspiration!
 
 [website]: https://ysnirix.live
