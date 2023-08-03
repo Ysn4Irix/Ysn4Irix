@@ -1,5 +1,5 @@
 <p align="center">
- <img width="320px" src="https://res.cloudinary.com/ysnirix/image/upload/v1628799571/logo_uuiutr.svg" align="center" alt="ysn4irixGithub" />
+ <img width="350px" src="https://res.cloudinary.com/ysnirix/image/upload/v1628799571/logo_uuiutr.svg" align="center" alt="ysn4irixGithub" />
 </p>
 
 ### 👋 Hi, I’m Yassine
@@ -7,7 +7,7 @@
 - ❤️ I’m in love with JavaScript
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working with [Node.js](https://nodejs.org/en/)
-- 📚 I’m currently learning ~~NuxtJS~~ [SvelteKit](https://kit.svelte.dev/)
+- 📚 I’m currently learning [SvelteKit](https://kit.svelte.dev/) and [NestJS](https://nestjs.com/)
 - 😄 Pronouns: he/him
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ysn4irix@gmail.com
