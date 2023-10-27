@@ -7,7 +7,7 @@
 - ❤️ I’m in love with JavaScript
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working with [Node.js](https://nodejs.org/en/)
-- 📚 I’m currently learning [SvelteKit](https://kit.svelte.dev/) and [NestJS](https://nestjs.com/)
+- 📚 I’m currently learning [SvelteKit](https://kit.svelte.dev/), [Next.js](https://nextjs.org)
 - 😄 Pronouns: he/him
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ysn4irix@gmail.com
